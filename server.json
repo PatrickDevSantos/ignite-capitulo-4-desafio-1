@@ -1,0 +1,221 @@
+{
+  "continents": [
+    {
+      "id": "america-norte",
+      "name":"América do Norte",
+      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica). Os dois primeiros países são os únicos do continente americano que estão inseridos no grupo dos países mais importantes político e economicamente, especialmente os Estados Unidos, que possuem a condição de maior potência mundial; já o México configura-se como um país em desenvolvimento, ou seja, emergente.",
+      "image": "http://blog.multiseguroviagem.com.br/wp-content/uploads/2017/12/america_do_norte_lago_superior_ontario_canada.jpg",
+      "languages": 1059,
+      "countriesNumber": 3,
+      "countries": [
+        {
+          "name": "Estados Unidos",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+          "cities": [
+            {
+              "name": "Miami",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miami_Skyline_2020.jpg/1280px-Miami_Skyline_2020.jpg"
+            },
+            {
+              "name": "Las Vegas",
+              "image": "https://dinstorbyferie.no/wp-content/uploads/2014/10/reise-til-las-vegas-1.jpg"
+            },
+            {
+              "name": "São Francisco",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Downtown_San_Francisco_seen_from_Slacker_Hill%2C_Marin_County_dllu.jpg/1280px-Downtown_San_Francisco_seen_from_Slacker_Hill%2C_Marin_County_dllu.jpg"
+            }            
+          ]
+        },{
+          "name": "Canadá",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "cities":[
+            {
+              "name": "Vancouver",
+              "image": "https://mundoviajar.com.br/wp-content/uploads/2018/11/Vancouver4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "america-sul",
+      "name":"América do Sul",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial",
+      "image": "https://www.viajali.com.br/wp-content/uploads/2016/05/rio-de-janeiro-730x411.jpg",
+      "languages": 1059,
+      "countriesNumber": 3,
+      "countries":[
+        {
+          "name": "Brasil",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+          "cities": [
+            {
+              "name": "Rio de janeiro",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cidade_Maravilhosa.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Ásia",
+      "description": "A Ásia é um dos continentes do mundo, considerado o mais extenso territorialmente e o mais populoso também. A Ásia é dividida em regiões geográficas, o que facilita o estudo.",
+      "image": "https://img.emg-services.net/HtmlPages/HtmlPage2534/asia.jpg",
+      "languages": 2036,
+      "countriesNumber": 51,
+      "countries": [
+        {
+          "name": "China",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+          "cities": [
+            {
+              "name": "Hong Kong",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Island_Skyline_201108.jpg/1200px-Hong_Kong_Island_Skyline_201108.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Tailândia",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+          "cities": [
+            {
+              "name": "Bangkok",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/View_from_Baiyoke_Sky_Hotel%2C_Bangkok_%287053110333%29_cropped.jpg/1280px-View_from_Baiyoke_Sky_Hotel%2C_Bangkok_%287053110333%29_cropped.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Turquia",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+          "cities": [
+            {
+              "name": "Istambul",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/View_of_Levent_financial_district_from_Istanbul_Sapphire.jpg/1280px-View_of_Levent_financial_district_from_Istanbul_Sapphire.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Japão",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+          "cities": [
+            {
+              "name": "Tóquio",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rainbow_colored_Rainbow_Bridge_at_night.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "name":"África",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005),",
+      "image": "https://www.eiu.com/n/wp-content/uploads/2020/12/MEA-cover-image-William-Howey-scaled.jpg",
+      "languages": 2014,
+      "countriesNumber": 54,
+      "countries":[
+          {
+          "name": "Egito",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+          "cities":[
+            {
+              "name": "Hurghada",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hurghada_TTC_Sunny_Beach_Resort_R02.jpg/1280px-Hurghada_TTC_Sunny_Beach_Resort_R02.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Marrocos",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+          "cities":[
+            {
+              "name": "Marrakech",
+              "image": "http://billystays.com/uploads/0000/30/2022/02/24/fe62a1993ab9b15e281b21afd217117e20210614124238.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "image": "https://st.depositphotos.com/1766887/1282/i/600/depositphotos_12820613-stock-photo-european-holidays-travelling-background.jpg",
+      "languages": 289,
+      "countriesNumber": 50,
+      "countries": [
+        {
+          "name": "Reino Unido",
+          "flag": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-do-reino-unido.jpg",
+          "cities": [
+            {
+              "name": "Londres",
+              "image": "https://www.euandopelomundo.com/wp-content/uploads/2015/03/londres_big_ben.jpg"
+            }
+          ]
+        },
+         {
+          "name": "França",
+          "flag": "https://static.todamateria.com.br/upload/58/4f/584f1a8561a5c-franca.jpg",
+          "cities": [
+            {
+              "name": "Paris",
+              "image": "https://cdn.getyourguide.com/img/location/5ffeb392eb81e.jpeg/68.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Itália",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png",
+          "cities": [
+            {
+              "name": "Roma",
+              "image": "https://travel-images.finncdn.no/dynamic/480x360c/seo/ROM.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Replúbica Tcheca",
+          "flag": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png",
+          "cities": [
+            {
+              "name": "Praga",
+              "image": "https://turistaprofissional.com/wp-content/uploads/2019/03/Cidade-Velha-2.jpg"
+            }
+          ]
+        },
+         {
+          "name": "Holanda",
+          "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAD1BMVEX///+uHCghRousABYLPIffJaIXAAABB0lEQVR4nO3QuRGAAAzAsPDsPzN9XFJAIU3g8xxs83XAD3lSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKe1FxsAwAAAAAAAAAAAAAAAAAAAMB7N9ucbJ6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Uk9Q6/I4nGDdNoAAAAASUVORK5CYII=",
+          "cities": [
+            {
+              "name": "Amsterdã",
+              "image": "https://cdn.getyourguide.com/img/location/5ffeb0b587f00.jpeg/88.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "name":"Oceania",
+      "description": "Oceania ou Oceânia é uma região geográfica[ composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/6c/05/40/welcome-to-oceania-deluxe.jpg",
+      "languages": 1323,
+      "countriesNumber": 14,
+      "countries":[
+        {
+        "name": "Australia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.svg.png",
+        "cities":[
+          {
+            "name": "Sydney",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/1280px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg"
+          }
+        ]
+      }
+      ]
+    }
+  ]
+}
